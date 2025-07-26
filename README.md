@@ -28,3 +28,4 @@ npm install express mongoose bcryptjs jsonwebtoken dotenv
 
 - Declare a variavel de ambiente no arquivo .env
 - Crie o arquivo server.js
+- Crie e configure o arquivo db.js
